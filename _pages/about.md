@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi! I'm Dilip Venkatesh, a project associate at [AI4Bharat](https://ai4bharat.iitm.ac.in/) at IIT Madras, where I'm advised by [Dr. Anoop Kunchukuttan](https://anoopk.in/) and [Dr. Raj Dabre](https://prajdabre.github.io/) on multilingual NLP.
 
-My research interests include alignment of large language models and mechanistically interpreting them. 
+My research interests include alignment of large language models and mechanistic interpretability them. 
