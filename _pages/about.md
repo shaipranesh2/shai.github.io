@@ -13,9 +13,9 @@ profile:
     <p>251 Mercer Street</p>
     <p>New York</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 Hi! I'm Dilip Venkatesh, a Master's student at NYU Courant advised by [Dr. Yann LeCun](https://yann.lecun.com/) working on latent space reasoning.
 

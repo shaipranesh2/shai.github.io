@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /assets/pdf/Dilip_oct_24_resume.pdf
+permalink: /assets/pdf/dilip_may_25.pdf
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: Dilip_oct_24_resume.pdf
+cv_pdf: dilip_may_25.pdf
 ---
